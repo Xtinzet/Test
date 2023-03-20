@@ -7,8 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Grid>
-            <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,0,373,201"/>
+        <Grid Margin="229,144,-229,-144">
             <TextBox HorizontalAlignment="Left" Margin="547,259,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
         </Grid>
 
