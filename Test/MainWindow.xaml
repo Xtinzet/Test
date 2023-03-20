@@ -6,10 +6,5 @@
         xmlns:local="clr-namespace:Test"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Grid Margin="229,144,-229,-144">
-            <TextBox HorizontalAlignment="Left" Margin="547,259,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
-        </Grid>
-
-    </Grid>
+    <Grid/>
 </Window>
